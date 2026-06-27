@@ -2,7 +2,7 @@
 
 
 
-Cluade Selection models ( This of models are selected by cluade not me)
+Cluade Selection models ( This list of models are selected by cluade not me)
 
 
 Primary Models to Compare
