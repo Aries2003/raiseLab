@@ -6,7 +6,6 @@
 
 ## Model Selection
 
-The following models have been selected to ensure strong diversity across parameters such as size, architecture, and alignment training methodologies:
 
 ### Frontier & Commercial Models (API)
 **Note the api code block not added yet**
