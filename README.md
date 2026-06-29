@@ -1,10 +1,16 @@
 # raiseLab
 
 
+<<<<<<< HEAD
 ## Setup 
+=======
+
+Cluade Selection models ( This list of models are selected by cluade not me)
+>>>>>>> 50116a0a9c8462250bc73b8b92f6593e2e62e8d6
 
 
 
+<<<<<<< HEAD
 
 ## Model Selection
 
@@ -30,3 +36,10 @@ The following models have been selected to ensure strong diversity across parame
 * XSUM → your Summarization task
 
 
+=======
+GPT-4o — commercial frontier model, strong baseline, widely deployed in real products like Siri competitors
+Claude 3.5 Sonnet — strong RLHF alignment, good for comparing harm mitigation approaches
+Llama 3.1 (8B and 70B) — open source, lets you inspect internals, good for Apple research since they can run on-device
+Mistral 7B — lightweight, less alignment tuning, likely to show more raw bias
+Gemma 2 — Google's model, relevant since Apple has Google partnership
+>>>>>>> 50116a0a9c8462250bc73b8b92f6593e2e62e8d6
